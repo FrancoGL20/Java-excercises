@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex006_RelationalOperators",
+            "request": "launch",
+            "mainClass": "com.example.Ex006_RelationalOperators",
+            "projectName": "java-exercises"
+        },
+        {
+            "type": "java",
             "name": "Ex005_LogicalOperators",
             "request": "launch",
             "mainClass": "com.example.Ex005_LogicalOperators",
