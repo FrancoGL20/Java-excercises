@@ -18,9 +18,9 @@ public class Ex007_BitwiseOperators {
         System.out.println("Not: " + ~a); // 11111010 (en complemento a dos, representa -6 en decimal)
 
         // Desplazamiento a la izquierda
-        System.out.println("desplazamiento Izquierda: " + (a << 2)); // 00010100 (20 en decimal)
+        System.out.println("desplazamiento Izquierda 2 veces: " + (a << 2)); // 00010100 (20 en decimal)
 
         // Desplazamiento a la derecha
-        System.out.println("desplazamiento Derecha: " + (a >> 1)); // 00000010 (2 en decimal)
+        System.out.println("desplazamiento Derecha 1 vez: " + (a >> 1)); // 00000010 (2 en decimal)
     }
 }
