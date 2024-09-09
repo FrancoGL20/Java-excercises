@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class Main {
+public class Ex001_InputAndOutputOfData {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -14,7 +14,7 @@ public class Main {
 
         int sum = numberOne + numberTwo;
 
-        System.out.println("El resultado de la suma es " + sum);
+        System.out.println("The result of the sum is " + sum);
 
         scanner.close();
     }
