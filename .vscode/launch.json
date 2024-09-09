@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex003_IncrementAndDecrement",
+            "request": "launch",
+            "mainClass": "com.example.Ex003_IncrementAndDecrement",
+            "projectName": "java-exercises"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
