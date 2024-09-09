@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex005_LogicalOperators",
+            "request": "launch",
+            "mainClass": "com.example.Ex005_LogicalOperators",
+            "projectName": "java-exercises"
+        },
+        {
+            "type": "java",
             "name": "Ex004_EqualityAndAllocation",
             "request": "launch",
             "mainClass": "com.example.Ex004_EqualityAndAllocation",
