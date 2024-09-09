@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex004_EqualityAndAllocation",
+            "request": "launch",
+            "mainClass": "com.example.Ex004_EqualityAndAllocation",
+            "projectName": "java-exercises"
+        },
+        {
+            "type": "java",
             "name": "Ex003_IncrementAndDecrement",
             "request": "launch",
             "mainClass": "com.example.Ex003_IncrementAndDecrement",
