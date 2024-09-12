@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex101_IfElse",
+            "request": "launch",
+            "mainClass": "com.example.Ex101_IfElse",
+            "projectName": "java-exercises"
+        },
+        {
+            "type": "java",
             "name": "Ex007_BitwiseOperators",
             "request": "launch",
             "mainClass": "com.example.Ex007_BitwiseOperators",
