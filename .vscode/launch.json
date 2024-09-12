@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EX103_For",
+            "request": "launch",
+            "mainClass": "com.example.EX103_For",
+            "projectName": "java-exercises"
+        },
+        {
+            "type": "java",
             "name": "Ex102_SwitchCase",
             "request": "launch",
             "mainClass": "com.example.Ex102_SwitchCase",
