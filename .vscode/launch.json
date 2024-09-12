@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EX104_While",
+            "request": "launch",
+            "mainClass": "com.example.EX104_While",
+            "projectName": "java-exercises"
+        },
+        {
+            "type": "java",
             "name": "EX103_For",
             "request": "launch",
             "mainClass": "com.example.EX103_For",
